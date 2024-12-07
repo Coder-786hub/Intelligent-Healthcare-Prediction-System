@@ -1,0 +1,2 @@
+build/login_page/login_page.pkg filter=lfs diff=lfs merge=lfs -text
+dist/login_page.exe filter=lfs diff=lfs merge=lfs -text
